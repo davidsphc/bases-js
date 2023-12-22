@@ -7,7 +7,7 @@ const persona = {
         ciudad: "New York",
         zip: 354059734503745690876,
         lat: 4230947823,
-        lng: 1243092348
+        lng: 1243092348 // cambio
     }
 }
 

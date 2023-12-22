@@ -13,7 +13,7 @@ const persona = {
 
 
 
-const persona2 = { persona }
+const persona2 = { ...persona }
 
 persona2.nombre = "Peter"
 
